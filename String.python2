@@ -1,0 +1,3 @@
+str=input("enter tha string")
+n=int(input("enter time to repeat")
+str=int(n)
